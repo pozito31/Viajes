@@ -1,0 +1,54 @@
+[
+    {
+        "code": "EU",
+        "name": "European Union"
+    },
+    {
+        "code": "EFTA",
+        "name": "European Free Trade Association"
+    },
+    {
+        "code": "CARICOM",
+        "name": "Caribbean Community"
+    },
+    {
+        "code": "PA",
+        "name": "Pacific Alliance"
+    },
+    {
+        "code": "AU",
+        "name": "African Union"
+    },
+    {
+        "code": "USAN",
+        "name": "Union of South American Nations"
+    },
+    {
+        "code": "EEU",
+        "name": "Eurasian Economic Union"
+    },
+    {
+        "code": "AL",
+        "name": "Arab League"
+    },
+    {
+        "code": "ASEAN",
+        "name": "Association of Southeast Asian Nations"
+    },
+    {
+        "code": "CAIS",
+        "name": "Central American Integration System"
+    },
+    {
+        "code": "CEFTA",
+        "name": "Central European Free Trade Agreement"
+    },
+    {
+        "code": "NAFTA",
+        "name": "North American Free Trade Agreement"
+    },
+    {
+        "code": "SAARC",
+        "name": "South Asian Association for Regional Cooperation"
+    }
+]

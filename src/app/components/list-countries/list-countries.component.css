@@ -1,0 +1,3 @@
+.block-countries { background: #FFF; border-radius: 10px; height: fit-content; }
+.country { border: 1px solid #000; cursor: grab; }
+.drop-list { min-height: 300px; width: 100%; }
