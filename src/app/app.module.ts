@@ -2,7 +2,8 @@ import {HttpClientModule} from '@angular/common/http';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { MatSelectModule } from '@angular/material/select';
-import {DragDropModule} from '@angular/cdk/drag-drop';
+import { DragDropModule } from '@angular/cdk/drag-drop';
+import { GoogleMapsModule } from '@angular/google-maps';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -22,7 +23,8 @@ import { FormsModule } from '@angular/forms';
     BrowserAnimationsModule,
     MatSelectModule,
     FormsModule,
-    DragDropModule
+    DragDropModule,
+    GoogleMapsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
